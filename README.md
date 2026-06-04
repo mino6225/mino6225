@@ -64,6 +64,4 @@ jurisdiction flagging. Generates automated SAR-style summary reports.
   high-stakes client management
 
 ### Connect
-
-📧 nollmia4@gmail.com
 💼 www.linkedin.com/in/mia-noll-jones-5953583b5
