@@ -5,11 +5,11 @@
 
 I'm an international affairs analyst specializing in Eurasian political economy with native bilingual fluency in English and German and working proficiency in Russian and Norwegian. In June 2026 I decided to teach myself Python.
 
-I'm not a bootcamp graduate. I didn't follow tutorials. I picked a problem I understood deeply, like sanctions evasion, financial crime, geopolitical risk, and built tools to analyze it. Every project on this profile was conceived by me, built by me, and reflects domain knowledge I developed over years of studying international affairs, not hours of watching YouTube.
+I'm not a bootcamp graduate, and I didn't follow tutorials. I picked a problem I understood deeply, like sanctions evasion, financial crime, geopolitical risk, and built tools to analyze it. Every project on this profile was conceived by me, built by me, and reflects domain knowledge I developed over years of studying international affairs.
 
-I use AI as a coding tutor the same way I'd use Stack Overflow or documentation: to get unstuck, not to think for me. The analytical decisions, the project architecture, the findings, and the interpretations are mine.
+I use AI as a coding tutor the same way I'd use Stack Overflow or documentation. I utilize Ai tools to get unstuck, not to think for me. The analytical decisions, the project architecture, the findings, and the interpretations are mine.
 
-From the Eurasian Entity Risk Screener onward, every line of code is mine. I wrote it, I debugged it, I understood it before I moved on. Earlier projects involved more guided instruction as I was learning syntax and structure from scratch. 
+From the Eurasian Entity Risk Screener onward, every line of code is mine. Earlier projects involved more guided instruction as I was learning syntax and structure from scratch. 
 
 ### What I'm Building
 
