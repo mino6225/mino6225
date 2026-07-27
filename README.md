@@ -1,5 +1,5 @@
 **International Affairs & Eurasian Risk Intelligence | Emerging Technologist**
-📍 Relocating to Washington D.C. — July 2026
+📍 Washington D.C.
 
 ### Who I Am
 
@@ -34,7 +34,7 @@ Multi-source intelligence fusion platform combining OFAC sanctions data, World B
 
 ### Background
 
-- B.A. International Affairs, Eurasian Political Economy | CU Boulder → Old Dominion University
+- B.A. Global Affairs, Business Minor | CU Boulder → George Mason University
 - Dean's List, Spring 2024
 - Native: English, German | Proficiency: Russian, Norwegian
 
