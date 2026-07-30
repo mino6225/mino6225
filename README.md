@@ -13,7 +13,7 @@ A technical portfolio at the intersection of financial crime intelligence, sanct
 
 ### Projects
 
-**[Sanctions Network Mapper](github.com/mino6225/sanctions-network-mapper)**
+**[Sanctions Network Mapper](https://github.com/mino6225/sanctions-network-mapper)**
 Maps hidden connections between 19,015 OFAC-sanctioned entities via shared address analysis. Identified five distinct sanctions evasion networks including a 147-entity Iranian dark fleet cluster and a Russian real estate GmbH network. Built with Python, NetworkX, PyVis, pandas.
 
 **[Eurasian Entity Risk Screener](github.com/mino6225/eurasian-risk-screener)**
