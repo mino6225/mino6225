@@ -14,7 +14,9 @@ A technical portfolio at the intersection of financial crime intelligence, sanct
 ### Projects
 
 **[Sanctions Network Mapper](https://github.com/mino6225/sanctions-network-mapper)**
-Maps hidden connections between 19,015 OFAC-sanctioned entities via shared address analysis. Identified five distinct sanctions evasion networks including a 147-entity Iranian dark fleet cluster and a Russian real estate GmbH network. Built with Python, NetworkX, PyVis, pandas.
+●	Maps hidden connections between OFAC-sanctioned entities by analyzing shared physical addresses and ownership-adjacent data across the U.S. Treasury SDN list, the same kind of multi-tier relationship mapping used to trace ownership structures and single points of failure in supplier networks. Processes 19,015 sanctioned entities and built network graph analysis to detect entity clusters, then manually characterized cluster patterns (including a 147-entity shell shipping cluster consistent with dark fleet evasion structures) through entity-name review.
+●	Key finding: identified MONSOON SHIPPING LTD as the most connected sanctioned entity (113 network connections), consistent with Iranian dark fleet oil sanctions evasion infrastructure, and surfaced five distinct evasion networks including a 147-entity shell shipping cluster.
+●	Tech stack: Python, NetworkX, PyVis.
 
 **[Eurasian Entity Risk Screener](https://github.com/mino6225/eurasian-risk-screener)**
 Screens companies against 38,895 OFAC sanctioned entities and scores countries using six World Bank governance indicators. Produces CRITICAL/HIGH/MEDIUM/LOW risk classifications with composite scoring. Built with Python, pandas, NumPy.
